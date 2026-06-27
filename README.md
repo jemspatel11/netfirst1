@@ -1,1 +1,1 @@
-# netfirst1
+# AI/ML Projects: Developed two machine learning projects using Python and Scikit-learn: a Netflix Recommendation & Data Analysis System that performs data preprocessing, exploratory data analysis (EDA), visualization, and personalized content recommendations, and a Heart Disease Prediction System that analyzes patient health data to predict the risk of heart disease using classification algorithms. These projects involved data cleaning, feature engineering, model training, evaluation, and data visualization using Pandas, NumPy, Matplotlib, and Seaborn.
